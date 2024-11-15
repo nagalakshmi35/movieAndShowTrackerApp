@@ -1,0 +1,20 @@
+.top-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu-bar {
+  height: 53px;
+  width: 53px;
+}
+
+.profile-icon {
+  height: 53px;
+  width: 53px;
+}
+
+.main-heading {
+  font-size: 48px;
+  font-family: "Roboto";
+}

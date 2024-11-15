@@ -1,0 +1,35 @@
+.sort-icon {
+  height: 55px;
+  width: 55px;
+}
+
+.filter-icon {
+  height: 45px;
+  width: 45px;
+}
+
+.para-name {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.icon-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 25px;
+  background-color: transparent;
+  height: 45px;
+  width: 120px;
+  border: solid 0px;
+  font-family: 'Roboto';
+  margin-bottom: 25px;
+  margin-right: 45px;
+  margin-top: 35px;
+}
+
+.sort-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}

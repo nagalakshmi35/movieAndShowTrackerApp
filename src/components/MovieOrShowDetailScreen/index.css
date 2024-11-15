@@ -1,0 +1,75 @@
+.back-arrow {
+  height: 45px;
+  width: 45px;
+  margin-right: 35px;
+}
+
+.product-title {
+  font-size: 42px;
+  font-family: "Roboto";
+}
+
+.product-type {
+  font-size: 25px;
+  font-family: "Roboto";
+}
+
+.product-des {
+  font-size: 24px;
+  font-family: "Roboto";
+  
+}
+
+.to-watch-btn {
+  height: 55px;
+  width: 30%;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Roboto";
+  border-style: solid;
+  border-right-width: 3px;
+  border-right-color: black;
+  border-left: 0px;
+  border-top: 0px;
+  border-bottom: 0px;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  background-color: #f4e2ef;
+}
+
+.watched-btn {
+  height: 55px;
+  width: 30%;
+  font-size: 20px;
+  font-weight: 500;
+  border: solid 0px;
+  font-family: "Roboto";
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+  background-color: #f4e2ef;
+}
+
+.back-arrow-con {
+  display: flex;
+  align-items: center;
+}
+
+.product-container {
+  padding: 25px;
+}
+
+.product-details {
+  display: flex;
+}
+
+.product-img {
+  height: 320px;
+  width: 380px;
+  margin-right: 20px;
+  border-radius: 15px;
+}
+
+.product-btn-con {
+    text-align: center;
+    margin-top: 125px;
+}

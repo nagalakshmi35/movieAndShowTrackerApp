@@ -1,0 +1,29 @@
+.list-screen-con {
+  padding: 25px;
+}
+
+.list-screen-btn {
+  height: 65px;
+  width: 220px;
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border: solid 2px;
+  font-size: 28px;
+  background-color: #eae3ea;
+  font-family: "Roboto";
+  margin-bottom: 25px;
+}
+
+.watch-item-con {
+  list-style-type: none;
+  display: flex;
+  overflow-x: scroll;
+  width: 100vw;
+}
+
+.loader-con {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

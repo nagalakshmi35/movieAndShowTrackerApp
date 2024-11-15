@@ -1,0 +1,42 @@
+.app-container {
+    padding: 25px;
+}
+
+.search-input {
+    padding-left: 20px;
+    border: solid 0px;
+    height: 95px;
+    width: 90%;
+    font-size: 35px;
+    border-radius: 25px;
+    outline: none;
+    font-family: 'Roboto';
+    background-color: #e6e2e2f3;
+}
+
+.search-icon {
+    height: 65px;
+    width: 65px;
+}
+
+.search-container {
+    background-color: #e6e2e2f3;
+    width: 100%;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.loader-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.list-container {
+    list-style-type: none;
+    overflow-y: scroll;
+    height: 60vh;
+}
